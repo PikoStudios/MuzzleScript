@@ -1,6 +1,6 @@
 # MuzzleScript
 
-Introducing **MuzzleScript**. A Library that creates a layer over the [Gravity Programming Language C API](https://github.com/marcobambini/gravity).
+Introducing **MuzzleScript**. A Single-Header C99 Library that creates a layer over the [Gravity Programming Language C API](https://github.com/marcobambini/gravity).
 
 ## What is MuzzleScript?
 
